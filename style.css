@@ -6,6 +6,9 @@ body{
     margin: 0px;
     background-size: 100%;
 }
+#block{
+    letter-spacing: 7px;
+}
 #momom{
     float: center;
     height: 100%;
@@ -26,4 +29,8 @@ summary{
 }
 #by{
     text-decoration: none;
+    letter-spacing: 3px;
+}
+#microsoft{
+    letter-spacing: 4px;
 }
