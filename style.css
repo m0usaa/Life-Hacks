@@ -1,0 +1,29 @@
+body{
+    height: auto; 
+    width: auto;
+    background-color: #000000;
+    size: 100%; 
+    margin: 0px;
+    background-size: 100%;
+}
+#momom{
+    float: center;
+    height: 100%;
+    width: 100%;
+    padding: 4px;
+    background-size: 100%; 
+    background-size: 100%;
+    size: 100%; 
+}
+details{
+    background: #000000;
+    color: #4bb433;
+    padding: 20px;
+}
+summary{
+    border: 2px white;
+    padding: 10px;    
+}
+#by{
+    text-decoration: none;
+}
