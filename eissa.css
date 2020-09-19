@@ -19,6 +19,9 @@ body{
 }
 #hehe:hover{
     opacity: 1;
+    line-height: 100px;
+    background-color: #4bb43375;
+    color: white;
 }
 .loginbox{
  
@@ -103,4 +106,15 @@ color: darkgrey;
 }
 .loginbox a:hover{
     color: #ef0206
+}
+#profile{
+    width: 35%;
+    height: 24%;
+    text-align: center;
+    border-radius: 50%;
+    border: 3px solid #4bb433;
+}
+#profile:hover{
+    text-align: center;
+    transform: scale(1.2);
 }
