@@ -34,3 +34,10 @@ summary{
 #microsoft{
     letter-spacing: 4px;
 }
+#image:hover{
+    transform: scale(1.2);
+    text-align: center;
+}
+#text:focus{
+    background-color: black;
+}
